@@ -6,6 +6,8 @@
 |_.__/|_|_| |_|\__,_|_|   \__, |  \__|_|  \___|\___||___/
                           |___/                          
 ```
+
+
 # Learning Objectives :
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/2012/04/feynman-technique/), **without the help of Google**:
@@ -36,3 +38,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
     *The prototypes of all your functions should be included in your header file called binary_trees.h
     *Don’t forget to push your header file
     *All your header files should be include guarded
+
+# More Info :
+
+## Data structures
+
+Please use the following data structures and types for binary trees. Don’t forget to include them in your header file.
