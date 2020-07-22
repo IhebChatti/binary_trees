@@ -20,3 +20,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
     * What is a complete, a full, a perfect, a balanced binary tree
 
 # Requirements :
+
+## General :
