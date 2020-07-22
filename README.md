@@ -78,3 +78,9 @@ Please use the following data structures and types for binary trees. Don’t for
     typedef struct binary_tree_s heap_t;
 
 **Note**: For tasks 0 to 23 (included), you have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
+
+## Print function
+
+To match the examples in the tasks, you are given [this function](https://github.com/holbertonschool/0x1C.c)
+
+This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction
